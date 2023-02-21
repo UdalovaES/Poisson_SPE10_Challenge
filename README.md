@@ -6,4 +6,4 @@
 
 ## To solve a system of linear equations, the solver of the linalg library is used.
 
-## As initial data it was used the values of: https://www.spe.org/web/csp/datasets/set02.htm#dead%20oil
+## As initial data it was used the values of: https://www.spe.org/web/csp/datasets/set02.htm#dead%20oil# Poisson_SPE10_Challenge
